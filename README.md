@@ -13,6 +13,8 @@ This project aims to provide detailed insights into Spotify data through interac
 
 The data used for this project is sourced from the "Onyx Data DataDNA Dataset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023". This dataset provides valuable insights into the most streamed songs on Spotify in 2023.
 
+Link for the dataset: https://www.kaggle.com/datasets/phani038/spotify-most-streamed-songs-dataset-2023
+
 ### Analytical Approach
 
 The project employs a combination of descriptive and exploratory data analysis techniques to uncover patterns and insights within the Spotify dataset. Various visualizations, including bar charts, scatter plots, and tables, are utilized to present findings in a clear and accessible manner.
