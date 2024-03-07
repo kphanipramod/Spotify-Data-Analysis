@@ -21,7 +21,7 @@ The project employs a combination of descriptive and exploratory data analysis t
 
 ### Tableau Public Profile
 
-Explore more visualizations and projects on my [Tableau Public profile](https://public.tableau.com/app/profile/viraj.bhutada/vizzes). Gain deeper insights into data analysis and visualization techniques through interactive dashboards and storytelling.
+Explore more visualizations and projects on my [Tableau Public profile](https://public.tableau.com/app/profile/phanipramod/viz/Spotify-Insights/SpotifyDashboard-HolisticMusicalInsights). Gain deeper insights into data analysis and visualization techniques through interactive dashboards and storytelling.
 
 ## Exploratory Data Analysis
 
